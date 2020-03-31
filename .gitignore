@@ -126,5 +126,6 @@ dmypy.json
 
 # custom file exclusions
 SIRmodel.py
-.txt
-.py.lprof
+SIRmodel_prof.txt
+SIRmodel_cl_op.py.lprof
+SIRmodel_cl_op_sn.py.lprof
