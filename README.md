@@ -17,4 +17,4 @@ Video link: [Click here!](https://www.youtube.com/watch?v=k6nLfCbAzgo)
 
 So enjoy and feel free to play around with my script! Also stay safe! (For anybody from the future, this was made during the Coronavirus Pandemic)
 
-(You looking for a license? Well there ain't any!)
+(You looking for a license? Well there wasn't any until a Reddit user told me to put one... So here it is MIT LICENSE, Enjoy!)
